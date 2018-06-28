@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "Test Lens",
+    "slug": "test-lens",
+    "sdkVersion": "27.0.0",
+    "privacy": "public",
+    "description": "An POC with react-native, react-native-camera and Google Vision API"
+  }
+}
